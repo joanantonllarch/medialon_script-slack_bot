@@ -8,6 +8,6 @@ Name it, give capabilities and permissions and install it.
 Save the token to configure and run the script.
 
 ##### <br/>
-##### Medialon Manager Panel screenshot:
+##### Slack Desktop screenshot:
 
 ![Image of panel](screenshots/conversation_bot_info_1_crop.png)
